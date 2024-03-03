@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Suizhi Huang   黄遂之"
+  name             : "Suizhi Huang \n\ 黄遂之"
   avatar           : "images/黄遂之底片.png"
   bio              : "Master Student in Computer Science @ CSE Department of Shanghai Jiao Tong University"
   location         : "Shanghai, China"
