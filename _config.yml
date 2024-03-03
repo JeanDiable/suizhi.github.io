@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Suizhi Huang"
-description              : "Suizhi Huang's personal site. "
+description              : # "Suizhi Huang's personal site. "
 repository               : "JeanDiable/JeanDiable.github.io"
 google_scholar_stats_use_cdn : true
 
