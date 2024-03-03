@@ -51,6 +51,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
+</div>
+</div>
+
 - **Task Indicating Transformer for Task-conditional Dense Predictions**
   
   Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
