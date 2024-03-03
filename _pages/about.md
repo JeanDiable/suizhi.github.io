@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a master’s student majored in Electronic Information at Department of Computer Science and Engineering of Shanghai Jiao Tong University, supervised by Professor Hongtao Lu at BCMI Lab. I received my bachelor degree from Shanghai Jiao Tong University in 2022. Here is my [CV](_images/CV.pdf ':include').
+Hi! I am a master’s student majored in Electronic Information at Department of Computer Science and Engineering of Shanghai Jiao Tong University, supervised by Professor Hongtao Lu at BCMI Lab. I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Here is my [CV](_images/HuangSuizhi_CV.pdf ':include').
 
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
+My primary areas of research interest include computer vision, multi-task learning and federated learning. I have published several papers at international conferences and journals with total Google Scholar citations<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2024! See you in Seattle!
+- *2023.12*: &nbsp;🎉🎉 One paper accepted by ICASSP 2024! See you in Seoul!
+
 
 # 📝 Publications 
 
