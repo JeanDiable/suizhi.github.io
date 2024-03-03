@@ -41,6 +41,7 @@ My primary areas of research interest include computer vision, multi-task learni
 Yuxiang Lu$^*$, **Suizhi Huang$^\*$**, Yuwen Yang, Shalayiding Sirejiding, Yue Ding, Hongtao Lu (co-first author)
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/yolomed.png' alt="sym" width="20%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,8 +51,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 **Suizhi Huang**, Shalayiding Sirejiding, Yuxiang Lu, Yue Ding, Leheng Liu, Hui Zhou, Hongtao Lu
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
-
-</div>
 </div>
 
 - **Task Indicating Transformer for Task-conditional Dense Predictions**
