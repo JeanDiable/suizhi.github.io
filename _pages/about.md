@@ -33,7 +33,7 @@ My primary areas of research interest include computer vision, multi-task learni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fedhca2.png' alt="sym" width="20%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fedhca2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[FedHCA$^2$ : Towards Hetero-Client Federated Multi-Task Learning](https://arxiv.org/abs/2311.13250)**
@@ -43,7 +43,7 @@ Yuxiang Lu$^*$, **Suizhi Huang$^\*$**, Yuwen Yang, Shalayiding Sirejiding, Yue D
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/yolomed.png' alt="sym" width="20%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/yolomed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **YOLO-MED : Multi-Task Interaction Network for Biomedical Images**
