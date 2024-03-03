@@ -1,4 +1,3 @@
-<img width="469" alt="image" src="https://github.com/JeanDiable/JeanDiable.github.io/assets/48408487/f8f71040-4022-4c13-91be-0bbdd211d423">---
 permalink: /
 title: ""
 excerpt: ""
