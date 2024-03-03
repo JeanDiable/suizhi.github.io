@@ -36,7 +36,7 @@ My primary areas of research interest include computer vision, multi-task learni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fedhca2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FedHCA$^2$ : Towards Hetero-Client Federated Multi-Task Learning](https://arxiv.org/abs/2311.13250)
+**[FedHCA$^2$ : Towards Hetero-Client Federated Multi-Task Learning](https://arxiv.org/abs/2311.13250)**
 
 Yuxiang Lu$^*$, **Suizhi Huang$^\*$**, Yuwen Yang, Shalayiding Sirejiding, Yue Ding, Hongtao Lu (co-first author)
 
@@ -45,43 +45,43 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/yolomed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-YOLO-MED : Multi-Task Interaction Network for Biomedical Images
+**YOLO-MED : Multi-Task Interaction Network for Biomedical Images**
 
 **Suizhi Huang**, Shalayiding Sirejiding, Yuxiang Lu, Yue Ding, Leheng Liu, Hui Zhou, Hongtao Lu
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
-- Task Indicating Transformer for Task-conditional Dense Predictions
+- **Task Indicating Transformer for Task-conditional Dense Predictions**
   
   Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
   
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
-- UNIDEAL: Curriculum Knowledge Distillation Federated Learning
+- **UNIDEAL: Curriculum Knowledge Distillation Federated Learning**
   
   Yuwen Yang, Chang Liu, Xun Cai, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
-- BARTENDER: A Simple Baseline Model for Task-level Heterogeneous Federated Learning
+- **BARTENDER: A Simple Baseline Model for Task-level Heterogeneous Federated Learning**
   
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Chang Liu, Muyang Yi, Zhaozhi Xie, Yue Ding, Hongtao Lu
   
   IEEE International Conference on Multimedia and Expo (ICME) 2024, _under review_
 
-- [Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2402.12876)
+- **[Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2402.12876)**
   
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Hongtao Lu, Yue Ding
   
   ACM SIGMM International Conference on Multimedia Retrieval (ICMR) 2024, _under review_
 
-- Adaptive Task-Wise Message Passing for Multi-Task Learning: A Spatial Interaction Perspective
+- **Adaptive Task-Wise Message Passing for Multi-Task Learning: A Spatial Interaction Perspective**
   
   Shalayiding Sirejiding, Bayram Bayramli, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _under revision_
 
-- Optimization of convolutional neural networks for background suppression in the PandaX-III experiment
+- **Optimization of convolutional neural networks for background suppression in the PandaX-III experiment**
   
   Shangning Xia, **Suizhi Huang**, Kexin Xu, Tao Li, Xun Chen, Ke Han,Shaobo Wang
   
@@ -99,9 +99,9 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 - *2023.09 - 2024.06* TA, Physics, SPEIT, SJTU
 
 # 🔨 Skills
-- Programming Languages: Python, C/C++
-- Platform: Linux, Windows, Docker
-- Development: PyTorch, OpenCV, Git, CUDA
-- English Proficiency: CET6: 564
-- French Proficiency: DELF B2
-- Document Writing: LaTeX, Markdown 
+- **Programming Languages**: Python, C/C++
+- **Platform**: Linux, Windows, Docker
+- **Development**: PyTorch, OpenCV, Git, CUDA
+- **English Proficiency**: CET6: 564
+- **French Proficiency**: DELF B2
+- **Document Writing**: LaTeX, Markdown 
