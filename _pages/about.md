@@ -48,32 +48,45 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 YOLO-MED : Multi-Task Interaction Network for Biomedical Images
 
 **Suizhi Huang**, Shalayiding Sirejiding, Yuxiang Lu, Yue Ding, Leheng Liu, Hui Zhou, Hongtao Lu
+
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
 - Task Indicating Transformer for Task-conditional Dense Predictions
+  
   Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
+  
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
 - UNIDEAL: Curriculum Knowledge Distillation Federated Learning
+  
   Yuwen Yang, Chang Liu, Xun Cai, **Suizhi Huang**, Hongtao Lu, Yue Ding
+  
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
 - BARTENDER: A Simple Baseline Model for Task-level Heterogeneous Federated Learning
+  
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Chang Liu, Muyang Yi, Zhaozhi Xie, Yue Ding, Hongtao Lu
+  
   IEEE International Conference on Multimedia and Expo (ICME) 2024, _under review_
 
 - [Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2402.12876)
+  
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Hongtao Lu, Yue Ding
+  
   ACM SIGMM International Conference on Multimedia Retrieval (ICMR) 2024, _under review_
 
 - Adaptive Task-Wise Message Passing for Multi-Task Learning: A Spatial Interaction Perspective
+  
   Shalayiding Sirejiding, Bayram Bayramli, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu, Yue Ding
+  
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _under revision_
 
 - Optimization of convolutional neural networks for background suppression in the PandaX-III experiment
+  
   Shangning Xia, **Suizhi Huang**, Kexin Xu, Tao Li, Xun Chen, Ke Han,Shaobo Wang
+  
   Journal of Physics G: Nuclear and Particle Physics 2023
-
+  
 # 🎖 Honors and Awards
 - *2024.01* Huatai Securities Science and Technology Scholarship
 - *2022.06* Outstanding Graduate of SJTU
