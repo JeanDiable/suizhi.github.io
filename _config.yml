@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : #"Suizhi Huang"
-description              : # "Suizhi Huang's personal site. "
-repository               : #"JeanDiable/JeanDiable.github.io"
+title                    : "Suizhi Huang"
+description              : ""
+repository               : "JeanDiable/JeanDiable.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
