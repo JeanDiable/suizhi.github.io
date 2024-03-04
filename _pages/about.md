@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a master’s student majored in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Professor [Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Here is my [CV](./HuangSuizhi_CV_photo.pdf).
+Hi! I am a master’s student majoring in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Professor [Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Here is my [CV](./HuangSuizhi_CV_photo.pdf).
 
-My primary areas of research interest include computer vision, multi-task learning and federated learning. I have published several papers at international conferences and journals with total Google Scholar citations<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
+My primary areas of research interest include computer vision, multi-task learning, and federated learning. I have published several papers at international conferences and journals with total Google Scholar citations<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
 
 # 🔥 News
@@ -28,7 +28,7 @@ My primary areas of research interest include computer vision, multi-task learni
 
 # 📖 Educations
 - *2022.09 - 2025.03 (now)*, **Master Candidate** in Electronic Information, Shanghai Jiao Tong University, China. 
-- *2018.09 - 2022.06*, **Bachelor of Arts** in French, **Bachelor of Science** in Information engineering, Shanghai Jiao Tong University, China. 
+- *2018.09 - 2022.06*, **Bachelor of Arts** in French, **Bachelor of Science** in Information Engineering, Shanghai Jiao Tong University, China. 
 
 
 # 📝 Publications 
@@ -55,13 +55,13 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 </div>
 </div>
 
-- **Task Indicating Transformer for Task-conditional Dense Predictions**
+- **[Task Indicating Transformer for Task-conditional Dense Predictions](https://arxiv.org/abs/2403.00327)**
   
   Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
   
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 
-- **UNIDEAL: Curriculum Knowledge Distillation Federated Learning**
+- **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://arxiv.org/abs/2309.08961)**
   
   Yuwen Yang, Chang Liu, Xun Cai, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
@@ -85,9 +85,9 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
   
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _under revision_
 
-- **Optimization of convolutional neural networks for background suppression in the PandaX-III experiment**
+- **[Optimization of convolutional neural networks for background suppression in the PandaX-III experiment](https://iopscience.iop.org/article/10.1088/1361-6471/acfe24)**
   
-  Shangning Xia, **Suizhi Huang**, Kexin Xu, Tao Li, Xun Chen, Ke Han,Shaobo Wang
+  Shangning Xia, **Suizhi Huang**, Kexin Xu, Tao Li, Xun Chen, Ke Han, Shaobo Wang
   
   Journal of Physics G: Nuclear and Particle Physics 2023
   
