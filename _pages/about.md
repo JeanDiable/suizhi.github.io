@@ -47,7 +47,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/yolomed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**YOLO-MED : Multi-Task Interaction Network for Biomedical Images**
+**[YOLO-MED : Multi-Task Interaction Network for Biomedical Images](https://arxiv.org/abs/2403.00245)**
 
 **Suizhi Huang**, Shalayiding Sirejiding, Yuxiang Lu, Yue Ding, Leheng Liu, Hui Zhou, Hongtao Lu
 
