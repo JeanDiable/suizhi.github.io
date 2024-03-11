@@ -60,13 +60,13 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
   
-  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 oral**
+  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
 
 - **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://arxiv.org/abs/2309.08961)**
   
   Yuwen Yang, Chang Liu, Xun Cai, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
-  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 oral**
+  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
 
 - **BARTENDER: A Simple Baseline Model for Task-level Heterogeneous Federated Learning**
   
