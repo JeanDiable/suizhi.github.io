@@ -56,15 +56,15 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 </div>
 </div>
 
-- **[Task Indicating Transformer for Task-conditional Dense Predictions](https://arxiv.org/abs/2403.00327)**
-  
-  Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
-  
-  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
-
 - **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://arxiv.org/abs/2309.08961)**
   
   Yuwen Yang, Chang Liu, Xun Cai, **Suizhi Huang**, Hongtao Lu, Yue Ding
+  
+  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
+
+- **[Task Indicating Transformer for Task-conditional Dense Predictions](https://arxiv.org/abs/2403.00327)**
+  
+  Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
   
   IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
 
@@ -84,7 +84,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   Shalayiding Sirejiding, Bayram Bayramli, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _under revision_
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _minor revision_
 
 - **[Optimization of convolutional neural networks for background suppression in the PandaX-III experiment](https://iopscience.iop.org/article/10.1088/1361-6471/acfe24)**
   
@@ -100,7 +100,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - *2019* SJTU SPEIT ARDIAN Enterprise Scholarship
 
 # 📚 Services
-- *2024.02* ICME Reviewer
+- *2024.02* ICME,PRML Reviewer
 - *2023.09 - 2024.06* TA, Physics, SPEIT, SJTU
 
 # 🔨 Skills
