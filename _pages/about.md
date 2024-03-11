@@ -23,7 +23,7 @@ My primary areas of research interest include computer vision, multi-task learni
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One paper has been selected for **oral** presentation at **ICASSP 2024**！
+- *2024.03*: &nbsp;🎉🎉 One paper has been selected for **Oral** presentation at **ICASSP 2024**！
 - *2024.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2024**! See you in Seattle!
 - *2023.12*: &nbsp;🎉🎉 One paper accepted by **ICASSP 2024**! See you in Seoul!
 
@@ -41,7 +41,7 @@ My primary areas of research interest include computer vision, multi-task learni
 
 Yuxiang Lu$^*$, **Suizhi Huang$^\*$**, Yuwen Yang, Shalayiding Sirejiding, Yue Ding, Hongtao Lu (co-first author)
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2024**
 </div>
 </div>
 
@@ -52,7 +52,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 
 **Suizhi Huang**, Shalayiding Sirejiding, Yuxiang Lu, Yue Ding, Leheng Liu, Hui Zhou, Hongtao Lu
 
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
 </div>
 </div>
 
@@ -60,13 +60,13 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
   
   Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
   
-  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 oral**
 
 - **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://arxiv.org/abs/2309.08961)**
   
   Yuwen Yang, Chang Liu, Xun Cai, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
-  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+  IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 oral**
 
 - **BARTENDER: A Simple Baseline Model for Task-level Heterogeneous Federated Learning**
   
