@@ -72,7 +72,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Chang Liu, Muyang Yi, Zhaozhi Xie, Yue Ding, Hongtao Lu
   
-  IEEE International Conference on Multimedia and Expo (ICME) 2024, _under review_
+  IEEE International Conference on Multimedia and Expo (ICME) 2024
 
 - **[Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2402.12876)**
   
@@ -100,7 +100,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - *2019* SJTU SPEIT ARDIAN Enterprise Scholarship
 
 # 📚 Services
-- *2024.02* ICME,PRML Reviewer
+- *2024.02* ICME, PRML Reviewer
 - *2023.09 - 2024.06* TA, Physics, SPEIT, SJTU
 
 # 🔨 Skills
