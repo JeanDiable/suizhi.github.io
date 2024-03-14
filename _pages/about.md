@@ -23,9 +23,10 @@ My primary areas of research interest include computer vision, multi-task learni
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One paper has been selected for **Oral** presentation at **ICASSP 2024**！
+- *2024.03*: &nbsp;🎉🎉 One paper accepted by **ICME 2024**!
+- *2024.03*: &nbsp;🎉🎉 Three paper has been selected for **Oral** presentation at **ICASSP 2024**！
 - *2024.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2024**! See you in Seattle!
-- *2023.12*: &nbsp;🎉🎉 One paper accepted by **ICASSP 2024**! See you in Seoul!
+- *2023.12*: &nbsp;🎉🎉 Three paper accepted by **ICASSP 2024**! See you in Seoul!
 
 # 📖 Educations
 - *2022.09 - 2025.03 (now)*, **Master Candidate** in Electronic Information, Shanghai Jiao Tong University, China. 
