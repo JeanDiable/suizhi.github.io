@@ -23,6 +23,7 @@ My primary areas of research interest include computer vision, multi-task learni
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 One paper accepted by **ICMR 2024**!
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **ICME 2024**!
 - *2024.03*: &nbsp;🎉🎉 Three paper has been selected for **Oral** presentation at **ICASSP 2024**！
 - *2024.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2024**! See you in Seattle!
@@ -79,13 +80,25 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Hongtao Lu, Yue Ding
   
-  ACM SIGMM International Conference on Multimedia Retrieval (ICMR) 2024, _under review_
+  ACM SIGMM International Conference on Multimedia Retrieval **(ICMR) 2024**
 
 - **Adaptive Task-Wise Message Passing for Multi-Task Learning: A Spatial Interaction Perspective**
   
   Shalayiding Sirejiding, Bayram Bayramli, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _minor revision_
+  
+- **Expeditious Low Dose CT Reconstruction via Gaussian Splatting**
+
+  Shaokai Wu, Yue Ding, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu
+
+  ACM MULTIMEDIA (ACMMM) 2024 _under review_
+
+- **CGIB: Understanding Multi-scale Feature Interactions for Multi-task Dense Prediction**
+
+  Yue Ding, Shalayiding Sirejiding, Yuxiang Lu, **Suizhi Huang**, Bayram Bayramli, Hongtao Lu
+
+  ACM MULTIMEDIA (ACMMM) 2024 _under review_
 
 - **[Optimization of convolutional neural networks for background suppression in the PandaX-III experiment](https://iopscience.iop.org/article/10.1088/1361-6471/acfe24)**
   
