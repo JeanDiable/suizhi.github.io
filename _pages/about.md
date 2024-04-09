@@ -87,6 +87,12 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Shalayiding Sirejiding, Bayram Bayramli, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _minor revision_
+
+- **Adverbial Controllable Motion Synthesis and Editing via Guided Diffusion**
+  
+  Leizhi Li, Tianyu Li, **Suizhi Huang**, Yuxiang Lu, Hongtao Lu, Yue Ding
+  
+  ACM MULTIMEDIA (ACMMM) 2024 _under review_
   
 - **Expeditious Low Dose CT Reconstruction via Gaussian Splatting**
 
@@ -99,6 +105,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Yue Ding, Shalayiding Sirejiding, Yuxiang Lu, **Suizhi Huang**, Bayram Bayramli, Hongtao Lu
 
   ACM MULTIMEDIA (ACMMM) 2024 _under review_
+
 
 - **[Optimization of convolutional neural networks for background suppression in the PandaX-III experiment](https://iopscience.iop.org/article/10.1088/1361-6471/acfe24)**
   
