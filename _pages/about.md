@@ -23,6 +23,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by **TCSVT 2024**!
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by **ICMR 2024**!
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **ICME 2024**!
 - *2024.03*: &nbsp;🎉🎉 Three paper has been selected for **Oral** presentation at **ICASSP 2024**！
@@ -86,13 +87,8 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   Shalayiding Sirejiding, Bayram Bayramli, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), _minor revision_
+  IEEE Transactions on Circuits and Systems for Video Technology **(TCSVT) 2024**
 
-- **Adverbial Controllable Motion Synthesis and Editing via Guided Diffusion**
-  
-  Leizhi Li, Tianyu Li, **Suizhi Huang**, Yuxiang Lu, Hongtao Lu, Yue Ding
-  
-  ACM MULTIMEDIA (ACMMM) 2024 _under review_
   
 - **Expeditious Low Dose CT Reconstruction via Gaussian Splatting**
 
