@@ -83,7 +83,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   ACM SIGMM International Conference on Multimedia Retrieval **(ICMR) 2024**
 
-- **Adaptive Task-Wise Message Passing for Multi-Task Learning: A Spatial Interaction Perspective**
+- **[Adaptive Task-Wise Message Passing for Multi-Task Learning: A Spatial Interaction Perspective](https://ieeexplore.ieee.org/abstract/document/10528326)**
   
   Shalayiding Sirejiding, Bayram Bayramli, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
