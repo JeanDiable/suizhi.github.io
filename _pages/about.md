@@ -124,6 +124,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - **Programming Languages**: Python, C/C++
 - **Platform**: Linux, Windows, Docker
 - **Development**: PyTorch, OpenCV, Git, CUDA
-- **English Proficiency**: CET6: 564
+- **English Proficiency**: TOEFL iBT: 111, CET6: 564
 - **French Proficiency**: DELF B2
 - **Document Writing**: LaTeX, Markdown 
